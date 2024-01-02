@@ -27,6 +27,12 @@ git branch <branch_name>
 git checkout <branch_name>
 7 Merging Branches
 git merge <branch_name>
+8 Cloning a repository
+git clone <repository_url>
+9 Pushing changes
+git push <remote_name> <branch_name>
+10 Pulling changes
+git pull <remote_name> <branch_name>
 Concepts on GitHub, GitLab, and BitBucket
 1 GitHub
 GitHub is a web-based platform for version control and collaboration. It provides features like pull requests, code review, and issue tracking.
