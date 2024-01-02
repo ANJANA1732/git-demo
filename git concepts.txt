@@ -22,7 +22,6 @@ git add <filename>
 4 Committing Changes
 git commit -m "Commit message"
 5 Creating a Branch
-
 git branch <branch_name>
 6 Switching Branches
 git checkout <branch_name>
